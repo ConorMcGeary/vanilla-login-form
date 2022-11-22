@@ -1,4 +1,5 @@
 body {
+  justify-content: center;
   height: 100vh;
   display: flex;
   /* TODO: Adjust CSS so that form is centered on page */
@@ -18,7 +19,7 @@ form > img {
 }
 
 label {
-  text-align: left;
+  text-align: center;
   width: 100%;
   padding: 1rem 0 0 0;
 }
